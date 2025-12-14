@@ -1,0 +1,24 @@
+# Roadmap Dashboard Configuration
+
+github:
+  org: "your-org"  # GitHub organization name (optional)
+  repos:  # List of specific repos to track (optional, leave empty to track all)
+    - "owner/repo1"
+    - "owner/repo2"
+
+jira:
+  enabled: false
+  url: "https://your-domain.atlassian.net"
+  project_key: "PROJ"
+
+linear:
+  enabled: false
+  team_id: "your-team-id"
+
+asana:
+  enabled: false
+  workspace_id: "your-workspace-id"
+
+blockers:
+  pr_threshold_days: 3  # PRs open longer than this are considered blockers
+  issue_threshold_days: 7  # Issues unassigned longer than this are considered blockers
