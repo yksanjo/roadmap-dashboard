@@ -1,5 +1,9 @@
 # Roadmap Health Dashboard
 
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/roadmap-dashboard?style=social)](https://github.com/yksanjo/roadmap-dashboard/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/roadmap-dashboard.svg)](https://github.com/yksanjo/roadmap-dashboard/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/roadmap-dashboard.svg)](https://github.com/yksanjo/roadmap-dashboard/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/roadmap-dashboard.svg)](https://github.com/yksanjo/roadmap-dashboard/commits/main)
+
+
 Live dashboard that syncs Jira/Linear/Asana + GitHub to show feature progress, blockers, and team velocity.
 
 ## Features
